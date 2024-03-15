@@ -4,5 +4,6 @@ function mudarimagemfora()
 }
 function mudarimagemdentro()
 {
-    document.getElementById("imagem").src="https://static.wikia.nocookie.net/backyardigans/images/9/9d/The_backyardigans.jpg/revision/latest?cb=20200828182459&path-prefix=es"
+    document.getElementById("imagem").src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQVWhzcIkqezwDO-rBQsrVCLyFW5Vq3VG7n2tdBbORaTw&s"
+    
 }
